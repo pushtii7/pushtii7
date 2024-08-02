@@ -1,11 +1,20 @@
-## Hi there 👋
+## Hi there, I am Pushti Soni 👋
+
+<a href="https://www.linkedin.com/in/pushti-soni/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg">
+<a/>
+&nbsp;
+<a href="https://github.com/pushtii7?tab=repositories">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" height=73>
+</a>
+<br/><br/><br/>
 
 <!--
 **pushtii7/pushtii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
