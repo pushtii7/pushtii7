@@ -11,7 +11,7 @@
 
 ># SKILLS
 ##  Programming Languages:
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![C](https://img.shields.io/badge/%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -25,7 +25,8 @@
   ![Django](https://img.shields.io/badge/django-%23563D7C.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ##  DataBases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySql](https://img.shields.io/badge/MySql-%234ea94b.svg?style=for-the-badge&logo=MySql&logoColor=white)
  
 <!--
 **pushtii7/pushtii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
